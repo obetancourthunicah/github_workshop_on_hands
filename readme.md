@@ -15,3 +15,5 @@ $ git config --global user.email johndoe@example.com
 # CI CD Concepts
 
 Conceptos de CI CD basados en web hooks e Integraciones de Github
+1) CI
+2) CD
